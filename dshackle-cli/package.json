@@ -17,7 +17,7 @@
     "@grpc/grpc-js": "^1.6.12",
     "@grpc/proto-loader": "^0.7.2",
     "arg": "^5.0.2",
-    "cli-color": "^2.0.3",
+    "cli-color": "^2.0.4",
     "esm": "^3.2.25"
   },
   "files": [
